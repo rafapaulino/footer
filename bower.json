@@ -1,0 +1,21 @@
+{
+  "name": "paginacao",
+  "homepage": "https://github.com/rafapaulino/footer",
+  "description": "Variações para o footer com o Bootstrap",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "paginação",
+    "pagination"
+  ],
+  "authors": [
+    "Rafael Paulino"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
